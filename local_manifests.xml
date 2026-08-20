@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Remotes -->
+    <remote name="gh" fetch="https://github.com" clone-depth="1" />
+    <remote name="glab" fetch="https://gitlab.com" clone-depth="1" />
+    
+    
+    <!-- Device -->
+    <project path="device/xiaomi/haydn" name="THE-EGO-999-GT/device_xiaomi_haydn1" remote="gh" revision="inf" />
+
+    <!-- Device - Common -->
+    <project path="device/xiaomi/sm8350-common" name="THE-EGO-999-GT/device_xiaomi_sm8350-common1" remote="gh" revision="inf" />
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/sm8350" name="THE-EGO-999-GT/kernel_xiaomi_haydn" remote="gh" revision="lineage-23.0" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/haydn" name="THE-EGO-999-GT/vendor_xiaomi_haydn" remote="gh" revision="lineage-23.2" />
+    <project path="vendor/xiaomi/haydn-firmware" name="THE-EGO-999-GT/vendor_xiaomi_haydn-firmware" remote="gh" revision="global" />
+    <project path="vendor/xiaomi/miuicamera-haydn" name="THE-EGO-999-GL/vendor-xiaomi-miuicamera-haydn" remote="glab" revision="Sixteen-Miui" />
+
+    <!-- Vendor - Common -->
+    <project path="vendor/xiaomi/sm8350-common" name="THE-EGO-999-GT/vendor_xiaomi_sm8350-common" remote="gh" revision="lineage-23.21" />
+
+    <!-- Hardware -->
+    <project path="packages/apps/DolbyUI" name="swiitch-OFF-Lab/packages_apps_DolbyUI" remote="gh" revision="16.0" />
+    <project path="hardware/dolby" name="swiitch-OFF-Lab/hardware_dolby" remote="gh" revision="sony-1.5" />
+    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="gh" revision="lineage-23.2" />
+
+    <!-- Other Repos -->
+    <project path="packages/apps/GameBar" name="THE-EGO-999-GT/packages_apps_GameBar" remote="gh" revision="lineage-23.2" />
+
+</manifest>
