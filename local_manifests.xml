@@ -7,13 +7,13 @@
     
     
     <!-- Device -->
-    <project path="device/xiaomi/haydn" name="THE-EGO-999-GT/device_xiaomi_haydn1" remote="gh" revision="inf" />
+    <project path="device/xiaomi/haydn" name="THE-EGO-999-GT/device_xiaomi_haydn" remote="gh" revision="inf" />
 
     <!-- Device - Common -->
-    <project path="device/xiaomi/sm8350-common" name="THE-EGO-999-GT/device_xiaomi_sm8350-common1" remote="gh" revision="inf" />
+    <project path="device/xiaomi/sm8350-common" name="THE-EGO-999-GT/device_xiaomi_sm8350-common" remote="gh" revision="inf" />
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/sm8350" name="THE-EGO-999-GT/kernel_xiaomi_haydn" remote="gh" revision="lineage-23.0" />
+    <project path="kernel/xiaomi/sm8350" name="THE-EGO-999-GT/kernel_xiaomi_haydn" remote="gh" revision="lineage-23.2" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/haydn" name="THE-EGO-999-GT/vendor_xiaomi_haydn" remote="gh" revision="lineage-23.2" />
