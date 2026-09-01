@@ -8,10 +8,10 @@
     <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
 
     <!-- Device -->
-    <project path="device/xiaomi/haydn" name="device_xiaomi_haydn" remote="THE-EGO-999-GT" revision="inf" />
+    <project path="device/xiaomi/haydn" name="device_xiaomi_haydn" remote="THE-EGO-999-GT" revision="evo" />
 
     <!-- Device - Common -->
-    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="inf" />
+    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="evo" />
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm8350" name="kernel_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-23.2" />
