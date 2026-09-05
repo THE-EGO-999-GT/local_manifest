@@ -26,7 +26,7 @@
 
     <!-- Hardware -->
     <project path="hardware/dolby" name="hardware_dolby" remote="swiitch-OFF-Lab" revision="sony-A17" />
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="cnb-no-dolby" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="cnb" />
 
     <!-- Other Repos -->
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-23.2" />
