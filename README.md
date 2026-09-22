@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦Project Infinity X📦
+# 📦Lunaris AOSP📦
 Local Manifest
 
 **Device: haydn | Android 16**
