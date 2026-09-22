@@ -3,7 +3,7 @@
 # 📦Project Infinity X📦
 Local Manifest
 
-**Device: haydn | Android 16**
+**Device: haydn | Android 17**
 
 </div>
 
