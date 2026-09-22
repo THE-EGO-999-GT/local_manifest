@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦Project Infinity X📦
+# 📦Evolution X📦
 Local Manifest
 
 **Device: haydn | Android 16**
