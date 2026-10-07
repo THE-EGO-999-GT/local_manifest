@@ -31,5 +31,6 @@
     <!-- Other Repos -->
     <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="swiitch-OFF-Lab" revision="16.0" />
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-23.2" />
-
+    <project path="packages/apps/TouchServices" name="packages_apps_TouchServices" remote="THE-EGO-999-GT" revision="lineage-23.2" />
+    
 </manifest>
