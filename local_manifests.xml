@@ -8,28 +8,27 @@
     <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
 
     <!-- Device -->
-    <project path="device/xiaomi/haydn" name="device_xiaomi_haydn" remote="THE-EGO-999-GT" revision="inf" />
+    <project path="device/xiaomi/haydn" name="device_xiaomi_haydn" remote="THE-EGO-999-GT" revision="inf-17" />
 
     <!-- Device - Common -->
-    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="inf" />
+    <project path="device/xiaomi/sm8350-common" name="device_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="inf-17" />
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/sm8350" name="kernel_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-23.2-KSU" />
+    <project path="kernel/xiaomi/sm8350" name="kernel_xiaomi_haydn" remote="THE-EGO-999-GT" revision="KSU" />
     
     <!-- Vendor -->
-    <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-23.2" />
+    <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-24.0" />
     <project path="vendor/xiaomi/haydn-firmware" name="vendor-xiaomi-haydn-firmware" remote="THE-EGO-999-GL" revision="global" />
-    <project path="vendor/xiaomi/haydn-miuicamera" name="vendor-xiaomi-haydn-miuicamera" remote="THE-EGO-999-GL" revision="Sixteen-Leica" />
+    <project path="vendor/xiaomi/haydn-miuicamera" name="vendor-xiaomi-haydn-miuicamera" remote="THE-EGO-999-GL" revision="Seventeen-Leica" />
 
     <!-- Vendor - Common -->
-    <project path="vendor/xiaomi/sm8350-common" name="vendor_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="lineage-23.2" />
+    <project path="vendor/xiaomi/sm8350-common" name="vendor_xiaomi_sm8350-common" remote="THE-EGO-999-GT" revision="lineage-24.0" />
 
     <!-- Hardware -->
-    <project path="hardware/dolby" name="hardware_dolby" remote="swiitch-OFF-Lab" revision="sony-1.5" />
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.2" />
+    <project path="hardware/dolby" name="hardware_dolby" remote="swiitch-OFF-Lab" revision="sony-A17" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-24.0" />
 
     <!-- Other Repos -->
-    <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="swiitch-OFF-Lab" revision="16.0" />
-    <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-23.2" />
+        <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-24.0" />
     
 </manifest>
