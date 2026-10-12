@@ -27,8 +27,5 @@
     <!-- Hardware -->
     <project path="hardware/dolby" name="hardware_dolby" remote="swiitch-OFF-Lab" revision="sony-A17" />
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-24.0" />
-
-    <!-- Other Repos -->
-        <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-24.0" />
     
 </manifest>
