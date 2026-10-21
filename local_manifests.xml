@@ -17,7 +17,7 @@
     <project path="kernel/xiaomi/sm8350" name="kernel_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-24.0-KSU" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-24.0" />
+    <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-23.2" />
     <project path="vendor/xiaomi/haydn-firmware" name="vendor-xiaomi-haydn-firmware" remote="THE-EGO-999-GL" revision="global" />
     <project path="vendor/xiaomi/miuicamera-haydn" name="vendor-xiaomi-miuicamera-haydn" remote="THE-EGO-999-GL" revision="Seventeen-Miui" />
 
