@@ -15,7 +15,7 @@
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/sm8350" name="kernel_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-24.0-KSU" />
-    
+
     <!-- Vendor -->
     <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="THE-EGO-999-GT" revision="lineage-23.2" />
     <project path="vendor/xiaomi/haydn-firmware" name="vendor-xiaomi-haydn-firmware" remote="THE-EGO-999-GL" revision="global" />
@@ -31,5 +31,5 @@
     <!-- Other Repos -->
     <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="swiitch-OFF-Lab" revision="16.0" />
     <project path="packages/apps/GameBar" name="packages_apps_GameBar" remote="THE-EGO-999-GT" revision="lineage-23.2" />
-    
+
 </manifest>
