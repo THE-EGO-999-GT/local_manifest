@@ -28,7 +28,4 @@
     <project path="hardware/dolby" name="hardware_dolby" remote="swiitch-OFF-Lab" revision="sony-A17" />
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-24.0" />
 
-    <!-- Other Repos -->
-    <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="swiitch-OFF-Lab" revision="16.0" />
-
 </manifest>
